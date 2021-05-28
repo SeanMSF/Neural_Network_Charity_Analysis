@@ -10,6 +10,8 @@ What variable(s) are neither targets nor features, and should be removed from th
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
+![image](https://user-images.githubusercontent.com/76413899/119932395-d6f71680-bf48-11eb-8b5e-f7a952320a9a.png)
+
 Were you able to achieve the target model performance?  No, we were not able to achieve accuracy above 75%. With more time, I would like to see what measures other students may have performed in order to increase performance of the model. 
 
 What steps did you take to try and increase model performance? I attempted to add nodes, hidden layers and to reduce columns under consideration (dropped 2 affiliations).
